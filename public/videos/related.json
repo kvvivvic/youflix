@@ -1,0 +1,226 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ePtCfSGBhQE5MyaqOebB6qDtck4",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yc8BZSqqlgM-AG-JnuUcAhp8ILE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JfCGhGJiuzI"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-11T12:47:24Z",
+        "channelId": "UCs-QBT4qkj_YiQw1ZntDO3g",
+        "title": "[FIM-LOG] in JAPAN #1🎏 l 돌아왔다 핌둥이들의 일본 브이로그 시즌2 (스포 : 🍱✈️🎤🏠🥔)",
+        "description": "#LE_SSERAFIM #르세라핌 공식 채널\n#LE_SSERAFIM #르세라핌 OFFICIAL CHANNEL\n\nOFFICIAL INSTAGRAM https://www.instagram.com/le_sserafim/\nOFFICIAL TWITTER https://twitter.com/le_sserafim\nOFFICIAL JAPAN TWITTER https://twitter.com/le_sserafim_jp\nOFFICIAL FACEBOOK https://www.facebook.com/official.lesserafim/\nOFFICIAL WEVERSE https://weverse.onelink.me/qt3S/t2ra8uwj\nOFFICIAL TIKTOK https://www.tiktok.com/@le_sserafim\nOFFICIAL WEIBO https://weibo.com/LESSERAFIM\nOFFICIAL BILIBILI https://space.bilibili.com/627577002",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JfCGhGJiuzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JfCGhGJiuzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JfCGhGJiuzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JfCGhGJiuzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JfCGhGJiuzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LE SSERAFIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-11T12:47:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KhzRfV3c1Af0Syji9pxh1Oed7nM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-yItbpo0MMk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T03:31:51Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[ENG/JP] 무릎 꿇고 시작하는 유교 인터뷰?! 더보이즈 막냉이들의 선배 모먼트 | 은채의 스타일기💫 EP01",
+        "description": "💫은채의 스타일기💫 첫 번째 일기!\n\n본편은 목요일 7PM (KST)\n유튜브 KBS kpop 채널에 업로드됩니다.\n\nMore from KBSKPOP\nTwitter : https://twitter.com/eunchae_diary\n\n#은채의스타일기 #홍은채 #아기은행장\n#르세라핌 #LESSERAFIM #eunchae #manchae \n#THEBOYZ #더보이즈 #주학년 #선우 #에릭",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-yItbpo0MMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-yItbpo0MMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-yItbpo0MMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-yItbpo0MMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-yItbpo0MMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T03:31:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vtlyakpYFUyGx5F3qxzv_32wNyQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xPCY_hs48qA"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-26T08:11:33Z",
+        "channelId": "UCOOKj-kWvrsK8CDfHZTw9lw",
+        "title": "지방팬 사이 숨은 가짜 지방팬 찾기 (feat. BTS 지민)｜PIXID",
+        "description": "지방에도 팬 이써요….ㅠ\n지방팬들의 열띤 톡 중에 등장한\n🌟군대 간 석찌니 휴덕(?!)🌟 지민!\n아니이 휴덕이 웬 말??????????\n과연 지민은, 지방팬 사이에서 살아남을 수 있을까?\n\n#pixid  #BTS #지민 #방탄소년단 #어몽어스 #단톡방",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xPCY_hs48qA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xPCY_hs48qA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xPCY_hs48qA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xPCY_hs48qA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xPCY_hs48qA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Pixid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-26T08:11:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j2IZ5D5ZpXv9Thpe1MQdFPN6LgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vxg0zAuwqHY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-25T05:01:24Z",
+        "channelId": "UCAP8OK0GHFbnL5OkY3j04Xw",
+        "title": "세계 제일 꾸러기들 | 혜미리예채파 |  EP03 | ENA 채널 | 매주 일요일 저녁 7시 50분",
+        "description": "#혜미리예채파 #혜리 #미연 #리정 #예나 #채원 #파트리샤 #ENA #이태경PD #TEO\n\n꾸러기...? 무서운 언니랑 귀여운 동생들\n존재들이 너무 귀엽다\n\n혜미리예채파 | ENA 채널 \n매주 일요일 저녁 7시 50분",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vxg0zAuwqHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vxg0zAuwqHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vxg0zAuwqHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vxg0zAuwqHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vxg0zAuwqHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ENA 이엔에이",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-25T05:01:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RRVBQE9CDBOuZWIyqbChLn0urgY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o0uXTyiIYM4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-22T13:01:01Z",
+        "channelId": "UCr1x91q2bKIt1v_5gKy6i3A",
+        "title": "Vlog | 르세라핌도 울고.. 나도 우는 눈물의 팬미팅&사쿠라 생일파티🎂🎈(피어나로그•팬미팅•피어나다)",
+        "description": "23.03.18-23.03.19\nLE SSERAFIM FAN MEETING ‘FEARNADA’ 2023 S/S\n\n가요대축제에서 르세라핌 인트로 무대만 보고 입덕했던게 어제같은데,, 이렇게 첫 팬미팅도 다녀왔네요 ◜◡◝ \n처음이라 더 뭉클했던 팬미팅,, \n\n제가 지금까지 만들었던 영상중에 컷편집을 제일 안한 영상이랍니다,, 무대 영상도, 애들 손편지도 너무 소중한 추억들이라 최소한으로 편집했어요 🎂🎈\n(즈하 편지부분은 저작권문제로 자꾸 안올라가서 부득이 편집했습니다 ◜◡◝)\n\nInsta : dooly.zip\n\n————————————\n\n[Video Source Support]\nYoutube channel \"freeticon\" :   @freeticon  \n\n————————————\n\n#르세라핌 #덕질브이로그 #피어나로그 #lesserafim #피어나다 #fearnada",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o0uXTyiIYM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o0uXTyiIYM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o0uXTyiIYM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o0uXTyiIYM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o0uXTyiIYM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빵둘리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-22T13:01:01Z"
+      }
+    }
+  ]
+}
