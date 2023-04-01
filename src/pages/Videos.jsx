@@ -2,30 +2,26 @@ import { useQuery } from "@tanstack/react-query";
 import React from "react";
 import { useParams } from "react-router-dom";
 import VideoCard from "../components/VideoCard/VideoCard";
-import Youtube from "../api/youtube";
-import FakeYoutube from "../api/faketube";
+import { useYoutubeApi } from "../context/YoutubeApiContext";
+import PopularSlide from "../components/Slider/PopularSlide";
 
 const Videos = () => {
   const { keyword } = useParams();
-  const {
-    isLoading,
-    error,
-    data: videos,
-  } = useQuery(["videos", keyword], () => {
-    const youtube = new Youtube();
-    return youtube.search(keyword);
-  });
+  const { youtube } = useYoutubeApi();
+  const { isLoading, error, data: videos } = useQuery(["videos", keyword], () => youtube.search(keyword));
   return (
     <>
-      <div className=" text-white">Videos {keyword ? `✅${keyword}` : "🔥"}</div>
+      <h3 className=" font-font text-2xl mt-12 mb-4 text-white">HOT Trend {keyword ? `✅${keyword}` : "🔥"}</h3>
+
       {isLoading && <p>Loading..</p>}
       {error && <p>error</p>}
       {videos && (
-        <ul>
-          {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
-          ))}
-        </ul>
+        // <ul className="flex">
+        //   {videos.map((video) => (
+        //     <VideoCard key={video.id} video={video} />
+        //   ))}
+        // </ul>
+        <PopularSlide videos={videos} />
       )}
     </>
   );

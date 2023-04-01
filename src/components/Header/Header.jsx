@@ -21,7 +21,7 @@ const Header = () => {
   useEffect(() => setText(keyword || ""), [keyword]);
   return (
     <header className=" w-full max-w-screen-2xl mx-auto flex text-white justify-between h-16 items-center">
-      <Link to="/" className="flex items-center ml-8">
+      <Link to="/" className="flex items-center justify-center">
         <AiFillYoutube className="text-3xl text-red-600" />
         <h1 className="text-3xl">Youflix</h1>
       </Link>

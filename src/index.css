@@ -2,7 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+#root {
+  width: 100%;
+  @apply max-w-screen-2xl mx-auto;
+}
 body {
   background: #000;
   color: white;
+}
+html {
+  @apply mx-2;
 }
