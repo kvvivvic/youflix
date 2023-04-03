@@ -1,7 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import React from "react";
 import { useParams } from "react-router-dom";
-import VideoCard from "../components/VideoCard/VideoCard";
 import { useYoutubeApi } from "../context/YoutubeApiContext";
 import PopularSlide from "../components/Slider/PopularSlide";
 
@@ -15,14 +14,7 @@ const Videos = () => {
 
       {isLoading && <p>Loading..</p>}
       {error && <p>error</p>}
-      {videos && (
-        // <ul className="flex">
-        //   {videos.map((video) => (
-        //     <VideoCard key={video.id} video={video} />
-        //   ))}
-        // </ul>
-        <PopularSlide videos={videos} />
-      )}
+      {videos && <PopularSlide videos={videos} />}
     </>
   );
 };
