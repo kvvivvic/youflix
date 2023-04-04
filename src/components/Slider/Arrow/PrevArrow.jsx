@@ -3,7 +3,7 @@ import "./button.css";
 import { GrFormPrevious } from "react-icons/gr";
 
 const PrevArrow = (props) => {
-  const { className, style, onClick } = props;
+  const { onClick } = props;
   return (
     <div className="slick-arrow slick-prev absolute" onClick={onClick}>
       <GrFormPrevious />

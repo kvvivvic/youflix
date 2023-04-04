@@ -8,6 +8,7 @@ const VideoDetail = () => {
     state: { video },
   } = useLocation();
   const { title, channelId, channelTitle, description } = video.snippet;
+
   return (
     <section className="flex pt-8">
       <article className="w-3/4">

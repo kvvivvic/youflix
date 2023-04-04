@@ -2,7 +2,7 @@ import React from "react";
 import { GrFormNext } from "react-icons/gr";
 
 const NextArrow = (props) => {
-  const { className, style, onClick } = props;
+  const { onClick } = props;
   return (
     <div className="slick-arrow slick-next" onClick={onClick}>
       <GrFormNext />
